@@ -7,4 +7,4 @@ you need the following libs, wxPython and cx-Freeze
 but you can find a precompiled version in releases :D
 
 # Problems
-you cant login using Facebook or Google sadly, and it also doesnt save your login credentials :(
+you can't login using Facebook or Google since they would open a popup window that from my understanding is only supported by a really old library thats stuck on python 3.6 and its really laggy and bad :/
