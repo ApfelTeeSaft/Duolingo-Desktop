@@ -37,7 +37,7 @@ class WebApp(wx.Frame):
 
 if __name__ == "__main__":
     app = wx.App(False)
-    frame = WebApp(None, "Web Application")
+    frame = WebApp(None, "Duolingo Desktop Client")
     
     # Set focus to the frame to capture key events
     frame.SetFocus()
